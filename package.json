@@ -1,0 +1,10 @@
+{
+  "name": "@roflsec/demit",
+  "version": "0.0.1",
+  "description": "Download YouTube audio and separate vocals with Demucs",
+  "bin": {
+    "demit": "bin/demit.js"
+  },
+  "keywords": ["youtube", "audio", "demucs", "music", "split", "stems"],
+  "author": "RoflSec"
+}
